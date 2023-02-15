@@ -1,4 +1,5 @@
-import img1 from '../img/student-experience.svg'
+import img1 from '../StudentExperience/student-experience.svg'
+import '../StudentExperience/StudentExperience-style.css'
 
 export default function StudentExperience(){
     return(<>

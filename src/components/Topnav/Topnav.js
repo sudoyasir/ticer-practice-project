@@ -1,4 +1,5 @@
-import Logo from '../img/ticer-logo.png'
+import Logo from '../Topnav/ticer-logo.png'
+import '../Topnav/Topnav-style.css'
 
 export default function Topnav(){
     return(<>

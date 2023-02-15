@@ -1,0 +1,19 @@
+.courses_sec{
+    padding: 20px 0px;
+    height: 160px;
+}
+.courses_sec img{
+    filter: grayscale();
+    transition: all .5s;
+    transform: translate(-50%, 0%);
+    cursor: pointer;
+}
+.courses_sec img:hover{
+    filter: none;
+    width: 65px !important;
+}
+.courses_sec p{
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 15px;
+}

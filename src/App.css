@@ -4,58 +4,10 @@
 *{
   font-family: 'Dosis', sans-serif;
 }
-.demo_btn{
-  background-color: orange !important;
-  color: white !important;
-  border: orange !important;
-}
-.gray_clr{
-  color: #777c80 !important;
-}
-.hero_section{
-  background-image: url('../src/img/header.jpg');
-  background-size: cover;
-  background-position: right;
-  padding: 90px 0px;
-}
-.hero_section h1{
-  font-family: 'Acme', sans-serif;
 
-}
-.primary_btn{
-  background-color: #6c63fe !important;
-  border: #6c63fe !important;
-}
-.nav_bar li{
-  padding: 0px 15px ;
-}
-.nav_bar li a{
-  font-size: 17px;
-  font-weight: 500;
-}
-.courses_sec{
-  padding: 20px 0px;
-  height: 160px;
-}
-.courses_sec img{
-  filter: grayscale();
-  transition: all .5s;
-  transform: translate(-50%, 0%);
-  cursor: pointer;
-}
-.courses_sec img:hover{
-  filter: none;
-  width: 65px !important;
 
-}
-.courses_sec p{
-  font-size: 25px;
-  display: inline-block;
-  margin-top: 15px;
-}
-.heading_font{
-  font-family: 'Acme', sans-serif;
-}
+
+
 .card_border{
   border-radius: 30px;
   border-top-left-radius: 3px;
@@ -66,6 +18,17 @@
   border-radius: 50px;
   border-top-left-radius: 3px;
 }
+.card_border2{
+  border-radius: 30px;
+  border-top-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.faicon2{
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 50px;
+}
+
 .breating_space{
   margin: 8rem auto;
 }

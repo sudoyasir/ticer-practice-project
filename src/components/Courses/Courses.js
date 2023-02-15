@@ -1,7 +1,8 @@
-import img1 from '../img/social-media.png'
-import img2 from '../img/web-development.png'
-import img3 from '../img/graphic-designing.png'
-import img4 from '../img/app-development.png'
+import img1 from '../Courses/social-media.png'
+import img2 from '../Courses/web-development.png'
+import img3 from '../Courses/graphic-designing.png'
+import img4 from '../Courses/app-development.png'
+import '../Courses/Courses-style.css'
 
 
 export default function Courses(){

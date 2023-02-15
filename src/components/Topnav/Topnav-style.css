@@ -1,0 +1,15 @@
+.demo_btn{
+    background-color: orange !important;
+    color: white !important;
+    border: orange !important;
+  }
+  .gray_clr{
+    color: #777c80 !important;
+  }
+  .nav_bar li{
+    padding: 0px 15px ;
+  }
+  .nav_bar li a{
+    font-size: 17px;
+    font-weight: 500;
+  }

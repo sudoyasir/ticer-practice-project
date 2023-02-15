@@ -1,3 +1,5 @@
+import '../HeroSection/HeroSection-style.css'
+
 export default function HeroSection(){
     return(<>
     
