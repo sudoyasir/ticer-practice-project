@@ -1,38 +1,36 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*{
+  font-family: 'Dosis', sans-serif;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.demo_btn{
+  background-color: orange !important;
+  color: white !important;
+  border: orange !important;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.gray_clr{
+  color: #777c80 !important;
 }
-
-.App-link {
-  color: #61dafb;
+.hero_section{
+  background-image: url('../src/img/header.jpg');
+  background-size: cover;
+  background-position: right;
+  padding: 90px 0px;
 }
+.hero_section h1{
+  font-family: 'Acme', sans-serif;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.hero_section button{
+  background-color: #6c63fe !important;
+  border: #6c63fe !important;
+  padding: 10px 40px !important;
+}
+.nav_bar li{
+  padding: 0px 15px ;
+}
+.nav_bar li a{
+  font-size: 17px;
+  font-weight: 500;
 }
