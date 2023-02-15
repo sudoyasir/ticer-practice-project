@@ -1,4 +1,5 @@
 import '../Footer/Footer.css'
+import Logo from '../Footer/ticer-logo.png'
 
 
 
@@ -8,8 +9,11 @@ function Footer(){
    <div className='container-fluid bg-dark text-light py-5'>
         <div className='row'>
             <div className='col-md-6 p-5'>
-                <h4>education</h4>
-                <h3>Take  student experience <br/>to the next level </h3>
+                <img 
+                className='mb-4'
+                src={Logo} 
+                />
+                <h3 className='heading_txt'>Take  student experience <br/>to the next level </h3>
             </div>
 
 

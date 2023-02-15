@@ -3,3 +3,6 @@ ul{
     list-style: none !important;
     padding: 0% !important;
 }
+.heading_txt{
+    font-family: 'Acme', sans-serif;
+}
