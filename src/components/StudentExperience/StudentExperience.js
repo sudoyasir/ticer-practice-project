@@ -24,7 +24,7 @@ export default function StudentExperience(){
 
                     <p>Meet the needs of the modern student and drive outcomes with a student engagment platform that creats personal, mobile experiences that resonate throughout the students academic journey.</p>
 
-                    <button className="btn btn-primary py-1 primary_btn mt-4">L E A R N&nbsp;&nbsp;N O W&nbsp;&nbsp;&nbsp;&nbsp;<i className="fa fa-angle-right" style={{fontSize:'20px'}}></i></button>
+                    <button className="btn btn-primary py-1 primary_btn mt-4 fw-bold py-2">L E A R N&nbsp;&nbsp;N O W&nbsp;&nbsp;&nbsp;&nbsp;<i className="fa fa-angle-right" style={{fontSize:'20px'}}></i></button>
                 </div>
             </div>
         </div>

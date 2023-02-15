@@ -1,3 +1,7 @@
 .heading_font{
     font-family: 'Acme', sans-serif;
   }
+  .primary_btn{
+    background-color: #6c63fe !important;
+    border: #6c63fe !important;
+    }
