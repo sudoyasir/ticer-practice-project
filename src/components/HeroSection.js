@@ -1,7 +1,7 @@
 export default function HeroSection(){
     return(<>
     
-    <div className="container-fluid hero_section">
+    <div className="container hero_section">
         <div className="container">
         <h1 style={{fontSize:'60px'}}>Empowering the <br/>Next Generation of <br/>Digital Innovators</h1>
         <p className="gray_clr">Empowering careers with high-quality computer skills <br/>education. Join us and discover your potential.</p>

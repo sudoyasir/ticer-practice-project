@@ -25,7 +25,7 @@
 .hero_section button{
   background-color: #6c63fe !important;
   border: #6c63fe !important;
-  padding: 10px 40px !important;
+  padding: 10px 30px !important;
 }
 .nav_bar li{
   padding: 0px 15px ;
@@ -33,4 +33,24 @@
 .nav_bar li a{
   font-size: 17px;
   font-weight: 500;
+}
+.courses_sec{
+  padding: 20px 0px;
+  height: 160px;
+}
+.courses_sec img{
+  filter: grayscale();
+  transition: all .5s;
+  transform: translate(-50%, 0%);
+  cursor: pointer;
+}
+.courses_sec img:hover{
+  filter: none;
+  width: 65px !important;
+
+}
+.courses_sec p{
+  font-size: 25px;
+  display: inline-block;
+  margin-top: 15px;
 }
