@@ -1,0 +1,10 @@
+.card_border{
+    border-radius: 30px;
+    border-top-left-radius: 3px;
+  }
+  .faicon{
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+    border-top-left-radius: 3px;
+  }

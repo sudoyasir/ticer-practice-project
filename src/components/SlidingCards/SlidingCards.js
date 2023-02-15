@@ -1,3 +1,5 @@
+import '../SlidingCards/SlidingCards-style.css'
+
 export default function SlidingCards(){
     return(<>
     

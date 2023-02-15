@@ -5,30 +5,6 @@
   font-family: 'Dosis', sans-serif;
 }
 
-
-
-
-.card_border{
-  border-radius: 30px;
-  border-top-left-radius: 3px;
-}
-.faicon{
-  padding: 20px;
-  font-size: 30px;
-  border-radius: 50px;
-  border-top-left-radius: 3px;
-}
-.card_border2{
-  border-radius: 30px;
-  border-top-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-.faicon2{
-  padding: 20px;
-  font-size: 30px;
-  border-radius: 50px;
-}
-
 .breating_space{
   margin: 8rem auto;
 }

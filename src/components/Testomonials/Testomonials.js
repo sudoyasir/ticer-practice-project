@@ -1,3 +1,6 @@
+import '../Testomonials/Testomonials-style.css'
+
+
 export default function Testomonials(){
     return(<>
     

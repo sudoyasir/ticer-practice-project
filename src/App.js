@@ -5,7 +5,7 @@ import HeroSection from './components/HeroSection/HeroSection';
 import Courses from './components/Courses/Courses';
 import StudentExperience from './components/StudentExperience/StudentExperience';
 import SlidingCards from './components/SlidingCards/SlidingCards';
-import Testomonials from './components/Testomonials';
+import Testomonials from './components/Testomonials/Testomonials';
 
 function App() {
   return (
