@@ -5,4 +5,14 @@ ul{
 }
 .heading_txt{
     font-family: 'Acme', sans-serif;
+    font-size: 35px !important;
+}
+.social_icons li{
+    display: inline;
+    font-size: 20px;
+    padding: 0px 8px;
+}
+.social_icons{
+    margin-top: 20px !important;
+
 }
