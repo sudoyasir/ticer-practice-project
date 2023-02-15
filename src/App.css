@@ -22,10 +22,9 @@
   font-family: 'Acme', sans-serif;
 
 }
-.hero_section button{
+.primary_btn{
   background-color: #6c63fe !important;
   border: #6c63fe !important;
-  padding: 10px 30px !important;
 }
 .nav_bar li{
   padding: 0px 15px ;
@@ -53,4 +52,20 @@
   font-size: 25px;
   display: inline-block;
   margin-top: 15px;
+}
+.heading_font{
+  font-family: 'Acme', sans-serif;
+}
+.card_border{
+  border-radius: 30px;
+  border-top-left-radius: 3px;
+}
+.faicon{
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 50px;
+  border-top-left-radius: 3px;
+}
+.breating_space{
+  margin: 8rem auto;
 }
