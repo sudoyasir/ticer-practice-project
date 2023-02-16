@@ -9,6 +9,7 @@ import NewsLetter from './components/NewsLetter/NewsLetter';
 import Footer from './components/Footer/Footer';
 
 function App() {
+  
   return (
     <>
       <Topnav />

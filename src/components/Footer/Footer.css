@@ -7,20 +7,24 @@ ul{
     padding: 0% !important;
 }
 .heading_txt{
-    font-size: 25px !important;
+    font-size: 30px !important;
     font-weight: 300;
 }
 .social_icons li{
     display: inline;
-    font-size: 20px;
-    padding: 0px 8px;
+    font-size: 15px;
+    padding: 0px 3px;
 }
 .social_icons{
-    margin-top: 20px !important;
+    margin-top: 25px !important;
 }
 .social_icons a{
     text-decoration: none;
-    color: white;
+    color: #4d5153;
+    background-color: white;
+    padding: 10px 13px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.541);
 }
 .list1 li, .list2 li{
     padding: 8px 0px !important;
@@ -43,9 +47,12 @@ ul{
     .social_icons{
         margin-top: 10px !important;
     }
-    .list1{
-    }
+
     h3{
         margin-top: 30px !important;
+    }
+
+    .social_icons{
+        margin-top: 35px !important;
     }
   }

@@ -6,18 +6,18 @@ import Logo from '../Footer/ticer-logo.png'
 function Footer(){
     return(<>
     
-   <div className='container-fluid bg-dark text-light py-5'>
+   <div className='container-fluid text-light py-5' style={{backgroundColor:'#212832'}}>
         <div className='container'>
         <div className='row'>
             <div className='col-md-6 ps-5'>
                 <img 
-                className='mb-4'
+                className='mb-4 w-25'
                 src={Logo} 
                 />
                 <h2 className='heading_txt'>Take  student experience <br/>to the next level </h2>
 
                 <ul className='social_icons'>
-                <li><a href='#'><i className='fa fa-facebook'></i></a></li>
+                <li><a href='#' className='rounded-circle'><i className='fa fa-facebook'></i></a></li>
                 <li><a href='#'><i className='fa fa-twitter'></i></a></li>
                 <li><a href='#'><i className='fa fa-instagram'></i></a></li>
                 <li><a href='#'><i className='fa fa-youtube'></i></a></li>
