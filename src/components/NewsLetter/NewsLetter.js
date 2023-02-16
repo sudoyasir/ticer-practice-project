@@ -21,7 +21,7 @@ export default function (){
 
 
                             <div class="input-group mb-3  mt-5 gmail_div">
-                                <input type="text" class="form-control" placeholder="Enter work email" aria-label="Recipient's username" aria-describedby="button-addon2" />
+                                <input type="text" class="form-control" type='email' placeholder="Enter work email" aria-label="Recipient's username" aria-describedby="button-addon2" />
                                 <button class="btn btn-outline-secondary" style={{backgroundColor:'#6c63fe', border:'#6c63fe', color:'white'}} type="button" id="button-addon2">Get a Demo</button>
                             </div>                
                         </div>

@@ -3,7 +3,7 @@ import '../SlidingCards/SlidingCards-style.css'
 export default function SlidingCards(){
     return(<>
     
-    <div class="container my-5">
+    <div class="container my-5 breating_space">
         <div class="row">
           <div class="col-md-4">
             <div class="card card_border" style={{backgroundColor:'#faf0d7', border:'0px'}}>

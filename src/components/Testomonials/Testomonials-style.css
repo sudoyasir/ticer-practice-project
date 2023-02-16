@@ -8,6 +8,10 @@
     font-size: 30px;
     border-radius: 50px;
   }
+  .grad{
+    background-image: linear-gradient(135deg, #ada2ff52, #d09cfa00);
+  }
+
 
 
   @media screen and (max-width:767px) {

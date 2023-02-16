@@ -5,8 +5,8 @@ export default function Testomonials(){
     return(<>
     
         <div 
-        className="container-fluid text-center py-5 breating_space"
-        style={{backgroundColor:'#f5f9fc'}}
+        className="container-fluid text-center breating_space grad"
+        style={{padding:'5rem 0'}}
         >
             <h2 
             style={{fontFamily:'Acme'}}
@@ -19,11 +19,11 @@ export default function Testomonials(){
 
             <div class="row">
           <div class="col-md-4">
-            <div class="card card_border2" style={{backgroundColor:'#faf0d7', border:'0px'}}>
+            <div class="card card_border2 shadow" style={{backgroundColor:'#ff646434', border:'0px'}}>
               <div className="mt-4">
                 <i 
                 class="fa fa-graduation-cap faicon2"
-                style={{color:'#fec938',backgroundColor:'#fbe7b2'}}
+                style={{color:'#FF6464',backgroundColor:'#ff646459'}}
                 >
 
                 </i>
@@ -34,7 +34,7 @@ export default function Testomonials(){
                 <a
                 href="#"
                 className="fw-bold"
-                style={{textDecoration:'none', color:'#fec938'}}
+                style={{textDecoration:'none', color:'#FF6464'}}
                 >
                   Learn More <i class='fa fa-arrow-right bold ps-1'></i>
                 </a>
@@ -43,11 +43,11 @@ export default function Testomonials(){
           </div>
 
           <div class="col-md-4">
-             <div class="card card_border2" style={{backgroundColor:'#dce3f3', border:'0px'}}>
+             <div class="card card_border2 shadow" style={{backgroundColor:'#5d389136', border:'0px'}}>
               <div className="mt-4">
                 <i 
                 class="fa fa-connectdevelop faicon2"
-                style={{color:'#4c83f2',backgroundColor:'#b5cbf2'}}
+                style={{color:'#5D3891',backgroundColor:'#5d389157'}}
                 >
 
                 </i>
@@ -58,7 +58,7 @@ export default function Testomonials(){
                 <a
                 href="#"
                 className="fw-bold"
-                style={{textDecoration:'none', color:'#4c83f2'}}
+                style={{textDecoration:'none', color:'#5D3891'}}
                 >
                   Learn more <i class='fa fa-arrow-right bold ps-1'></i>
                 </a>
@@ -67,11 +67,11 @@ export default function Testomonials(){
           </div>
 
           <div class="col-md-4">
-             <div class="card card_border2" style={{backgroundColor:'#b8e2ca80', border:'0px'}}>
+             <div class="card card_border2 shadow" style={{backgroundColor:'#439a9736', border:'0px'}}>
               <div className="mt-4">
                 <i 
                 class="fa fa-diagram-project faicon2"
-                style={{color:'#4ebc86',backgroundColor:'#b8e2ca'}}
+                style={{color:'#439A97',backgroundColor:'#439a975d'}}
                 >
 
                 </i>
@@ -82,7 +82,7 @@ export default function Testomonials(){
                 <a
                 href="#"
                 className="fw-bold"
-                style={{textDecoration:'none', color:'#4ebc86'}}
+                style={{textDecoration:'none', color:'#439A97'}}
                 >
                   Learn More <i class='fa fa-arrow-right bold ps-1'></i>
                 </a>

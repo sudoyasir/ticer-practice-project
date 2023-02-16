@@ -8,7 +8,7 @@ import '../Courses/Courses-style.css'
 export default function Courses(){
     return(<>
     
-    <div className="container-fluid my-5 py-3" style={{backgroundColor:'#f5f9fc'}}>
+    <div className="container-fluid my-5 py-3 " style={{backgroundColor:'#f5f9fc'}}>
 
         <div className="container">
 
