@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+
+
 ul{
     margin: 0 !important;
     list-style: none !important;
     padding: 0% !important;
 }
 .heading_txt{
-    font-family: 'Acme', sans-serif;
-    font-size: 35px !important;
+    font-size: 25px !important;
+    font-weight: 300;
 }
 .social_icons li{
     display: inline;
@@ -14,5 +17,35 @@ ul{
 }
 .social_icons{
     margin-top: 20px !important;
-
 }
+.social_icons a{
+    text-decoration: none;
+    color: white;
+}
+.list1 li, .list2 li{
+    padding: 8px 0px !important;
+}
+.list1 i{
+    font-size: 13px;
+    padding-right: 5px;
+}
+.list1 li:not(:last-child){
+    border-bottom: 1px #777c80 solid;
+}
+.list1 a{
+    text-decoration: none;
+    color: #c3cad1;
+    font-size: 15px;
+}
+
+
+@media screen and (max-width:767px) {
+    .social_icons{
+        margin-top: 10px !important;
+    }
+    .list1{
+    }
+    h3{
+        margin-top: 30px !important;
+    }
+  }

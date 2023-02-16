@@ -9,7 +9,7 @@ export default function StudentExperience(){
                 <div className="col-md-6 text-center">
                     <img
                         src={img1}
-                        className='w-50'
+                        className='w-50 img1'
                     />
                 </div>
                 <div 

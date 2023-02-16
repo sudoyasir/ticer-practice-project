@@ -1,0 +1,14 @@
+@media screen and (max-width:767px) {
+    .div_left{
+        text-align: center;
+        padding: 0 !important;
+    }
+    .gmail_div{
+        padding: 0 60px;
+        margin-bottom: 30px !important;
+    }
+    .img_section{
+        width: 70%;
+        margin: auto !important;
+    }
+  }

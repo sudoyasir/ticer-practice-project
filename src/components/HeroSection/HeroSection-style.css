@@ -12,3 +12,15 @@
   background-color: #6c63fe !important;
   border: #6c63fe !important;
   }
+
+
+  @media screen and (max-width:767px) {
+    .hero_section{
+      background-image: none;
+      padding: 20px 0px;
+
+    }
+    .hero_section h1{
+      font-size: 50px !important;
+    }
+}

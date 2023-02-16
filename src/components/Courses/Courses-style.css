@@ -17,3 +17,10 @@
     display: inline-block;
     margin-top: 15px;
 }
+
+
+@media screen and (max-width:767px) {
+    .courses_sec{
+        margin: 20px 0px !important;
+    }
+}

@@ -4,4 +4,18 @@
   .primary_btn{
     background-color: #6c63fe !important;
     border: #6c63fe !important;
-    }
+}
+
+
+@media screen and (max-width:767px) {
+  .img1{
+    width: 50% !important;
+    margin-bottom: 40px !important;
+  }
+  .heading_font{
+    font-size: 40px !important;
+  }
+  .breating_space{
+    margin: 30px 0px !important;
+  }
+}

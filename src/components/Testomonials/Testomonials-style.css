@@ -8,3 +8,10 @@
     font-size: 30px;
     border-radius: 50px;
   }
+
+
+  @media screen and (max-width:767px) {
+    .card_border2{
+      margin: 10px 0px !important;
+    }
+  }
