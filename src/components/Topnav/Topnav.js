@@ -27,7 +27,7 @@ export default function Topnav(){
         </li>
       </ul>
       <form className="d-flex">
-        <button className="btn btn-outline-success demo_btn py-1 fw-bold" type="submit">GET A DEMO</button>
+        <button className="btn btn-outline-success demo_btn py-1" type="submit">GET A DEMO</button>
       </form>
     </div>
   </div>
