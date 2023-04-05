@@ -45,8 +45,7 @@ function Footer() {
                             <li><a href='#'><i className='fa fa-angle-right'></i> Admin Login</a></li>
                             <li><a href='#'><i className='fa fa-angle-right'></i> Admin Login</a></li>
                         </ul>
-                        lkjklkjkl
-                        <h3>hello word</h3>
+                    
 
                     </div>
                 </div>
